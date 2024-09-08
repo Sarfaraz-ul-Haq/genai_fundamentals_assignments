@@ -86,10 +86,10 @@ If this were a school drama:
 
 ### GANs in Summary:
 
-1. **Generator** = Artist, creates data.
-2. **Discriminator** = Critic, evaluates data.
-3. **Training** = A back-and-forth battle where both improve.
-4. **Inference** = Using the trained GAN to generate new, lifelike data.
+- **Generator** = Artist, creates data.
+- **Discriminator** = Critic, evaluates data.
+- **Training** = A back-and-forth battle where both improve.
+- **Inference** = Using the trained GAN to generate new, lifelike data.
 
 ---
 
