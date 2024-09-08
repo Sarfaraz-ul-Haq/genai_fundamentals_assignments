@@ -56,15 +56,6 @@ Once the GAN is fully trained, the **Generator** can be used to create new image
 
 ---
 
-## The Big Picture
-
-- **GANs are like a two-player game** between the **Generator** and the **Discriminator**.
-- The **Generator** creates fake data while the **Discriminator** judges whether it's real or fake.
-- Through this competition, both improve until the **Generator** can produce highly realistic data.
-- GANs have vast applications in image creation, video generation etc.
-
----
-
 ### Fun Analogy:
 
 If this were a school drama:
